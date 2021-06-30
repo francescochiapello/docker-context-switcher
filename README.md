@@ -7,5 +7,7 @@ out on the terminal
 Download the `docker-context-switcher` tool from `npmjs` and simply
 type `dcs` on your terminal to run it
 
+https://www.npmjs.com/package/docker-context-switcher
+
 
 Enjoy!
