@@ -1,0 +1,27 @@
+{
+  "name": "docker-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "francescochiapello <francesco.chiapello@outlook.com>",
+  "bin": {
+    "dcs": "dcs.js"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "keywords": [
+    "docker",
+    "context",
+    "contexts",
+    "switch",
+    "node"
+  ],
+  "devDependencies": {
+    "standard": "^16.0.3"
+  },
+  "dependencies": {
+    "docker-cli-js": "^2.8.0",
+    "ipt": "^3.2.0"
+  }
+}
